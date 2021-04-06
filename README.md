@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Verb</title>
 </head>
 <body>
 <table style="width: 100%; height: 100%">
