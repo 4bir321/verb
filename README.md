@@ -1,5 +1,4 @@
-# verb
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Verb</title>
